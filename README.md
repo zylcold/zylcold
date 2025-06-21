@@ -19,10 +19,6 @@
 - **[JYFoundation](https://github.com/zylcold/JYFoundation)**: A lightweight framework for common utilities and extensions in iOS development.
 - **[JYPhotoBrowser](https://github.com/zylcold/JYPhotoBrowser)**: A customizable photo browser for iOS with smooth animations and gestures.
 
-### 🧩 Open Source Contributions
-- **[AFNetworking](https://github.com/AFNetworking/AFNetworking)**: Contributed to bug fixes and performance improvements.
-- **[Charts](https://github.com/danielgindi/Charts)**: Added new chart types and enhanced documentation.
-
 ## 📚 Learning Path
 - **Swift**: Advanced generics, protocol-oriented programming, and concurrency with async/await.
 - **iOS Architecture**: MVVM-C, Clean Architecture, and modularization.
