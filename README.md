@@ -111,18 +111,23 @@ class Developer {
 <div align="center">
 
 ```mermaid
-gitgraph
-    commit id: "Swift Basics"
-    commit id: "UIKit Mastery"
-    branch SwiftUI
-    checkout SwiftUI
-    commit id: "SwiftUI Fundamentals"
-    commit id: "Combine Framework"
-    checkout main
-    merge SwiftUI
-    commit id: "iOS Architecture"
-    commit id: "Open Source"
-    commit id: "Future Goals"
+graph TD
+    A[Swift Basics] --> B[UIKit Mastery]
+    B --> C[SwiftUI Fundamentals]
+    B --> D[iOS Architecture]
+    C --> E[Combine Framework]
+    C --> F[Advanced Animations]
+    D --> G[MVVM-C Pattern]
+    D --> H[Clean Architecture]
+    E --> I[Open Source]
+    F --> I
+    G --> I
+    H --> I
+    I --> J[Future Goals]
+    
+    style A fill:#e1f5fe
+    style J fill:#fff3e0
+    style I fill:#f3e5f5
 ```
 
 </div>
