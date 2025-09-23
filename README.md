@@ -38,6 +38,7 @@ class Developer {
         ]
     }
 }
+```
 <br clear="both"/>
 
 ## 🧑‍💻 Tech Stack & Tools
