@@ -3,8 +3,6 @@
 # 👋 Hey there, I'm 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=@zylcold;iOS+Developer+%F0%9F%93%B1;Swift+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://github.com/zylcold/zylcold/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=zylcold&color=brightgreen&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/zylcold?label=Follow&style=social)](https://github.com/zylcold)
 
@@ -218,7 +216,7 @@ learning   2024  1.0  0.5  exploring_new_tech
 
 ---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 **Thanks for visiting! 🚀**
 
