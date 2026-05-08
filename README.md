@@ -80,7 +80,7 @@ class Developer {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zylcold&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylcold&theme=tokyonight" alt="Contribution Summary" />
 </div>
 
 ## 🛠 Featured Projects
