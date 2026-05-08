@@ -157,6 +157,27 @@ let currentLearning = [
 - [ ] Write and publish technical blog posts about AI + iOS
 - [ ] Speak at iOS/AI community events
 
+## 🤖 Agent Engineering Notes (2026)
+
+### 🧠 Agent Knowledge Map
+- **Planning**: Break tasks into verifiable checkpoints before coding
+- **Tool Use**: Prefer deterministic tools (search, tests, CI logs) over guesswork
+- **Memory**: Persist stable conventions and avoid session-only assumptions
+- **Validation**: Run review/security checks before final output
+- **Feedback Loop**: Use comment-driven iteration to refine small PRs quickly
+
+### 🧰 Agent Workflow I Use
+```text
+Intent -> Plan -> Search -> Edit -> Validate -> Review -> Ship
+```
+
+### ⭐ Agent Projects (Recent Star References)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Multi-agent orchestration patterns
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Role-based collaborative agents
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Stateful agent graphs
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local tool-using code agent
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - Software engineering agent runtime
+
 ## 🛡 Developer Philosophy
 
 <div align="center">
