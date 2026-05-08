@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hey there, I'm 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=@zylcold;iOS+Developer+%F0%9F%93%B1;Swift+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=@zylcold;iOS+Developer+%F0%9F%93%B1;Swift+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" loading="lazy" onerror="this.style.display='none'" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=zylcold&color=brightgreen&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/zylcold?label=Follow&style=social)](https://github.com/zylcold)
+<img src="https://komarev.com/ghpvc/?username=zylcold&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" loading="lazy" onerror="this.style.display='none'" />
+<a href="https://github.com/zylcold"><img src="https://img.shields.io/github/followers/zylcold?label=Follow&style=social" alt="GitHub followers" loading="lazy" onerror="this.style.display='none'" /></a>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" loading="lazy" onerror="this.style.display='none'">
 
 ```swift
 class Developer {
@@ -60,6 +60,10 @@ class Developer {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8C5A3C?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📊 Databases & Backend
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -71,16 +75,16 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy" onerror="this.style.display='none'"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" loading="lazy" onerror="this.style.display='none'"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zylcold&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zylcold&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="lazy" onerror="this.style.display='none'" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylcold&theme=tokyonight" alt="Contribution Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylcold&theme=tokyonight" alt="Contribution Summary" loading="lazy" onerror="this.style.display='none'" />
 </div>
 
 ## 🛠 Featured Projects
@@ -88,13 +92,13 @@ class Developer {
 <div align="center">
 
 <a href="https://github.com/zylcold/LoveLinkProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight&hide_border=true" alt="LoveLinkProject" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight&hide_border=true" alt="LoveLinkProject" loading="lazy" onerror="this.style.display='none'" />
 </a>
 <a href="https://github.com/zylcold/JYFoundation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight&hide_border=true" alt="JYFoundation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight&hide_border=true" alt="JYFoundation" loading="lazy" onerror="this.style.display='none'" />
 </a>
 <a href="https://github.com/zylcold/JYPhotoBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYPhotoBrowser&theme=tokyonight&hide_border=true" alt="JYPhotoBrowser" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYPhotoBrowser&theme=tokyonight&hide_border=true" alt="JYPhotoBrowser" loading="lazy" onerror="this.style.display='none'" />
 </a>
 
 </div>
@@ -141,16 +145,38 @@ let currentLearning = [
     "Advanced Swift Concurrency (async/await)",
     "SwiftUI Advanced Animations", 
     "Clean Architecture Patterns",
-    "iOS Performance Optimization"
+    "iOS Performance Optimization",
+    "Vibe Coding Workflow (AI-assisted coding + fast prototyping)"
 ]
 ```
 
-### 🚀 2024 Goals
-- [ ] Contribute to Swift Open Source
-- [ ] Master ARKit & VisionPro Development  
+### 🚀 2026 Goals
+- [ ] Ship AI-assisted iOS developer workflow templates
+- [ ] Integrate Vibe Coding in daily feature prototyping
 - [ ] Build and launch 2 iOS apps
-- [ ] Write technical blog posts
-- [ ] Speak at iOS conferences
+- [ ] Write and publish technical blog posts about AI + iOS
+- [ ] Speak at iOS/AI community events
+
+## 🤖 Agent Engineering Notes (2026)
+
+### 🧠 Agent Knowledge Map
+- **Planning**: Break tasks into verifiable checkpoints before coding
+- **Tool Use**: Prefer deterministic tools (search, tests, CI logs) over guesswork
+- **Memory**: Persist stable conventions and avoid session-only assumptions
+- **Validation**: Run review/security checks before final output
+- **Feedback Loop**: Use comment-driven iteration to refine small PRs quickly
+
+### 🧰 Agent Workflow I Use
+```text
+Intent -> Plan -> Search -> Edit -> Validate -> Review -> Ship
+```
+
+### ⭐ Agent Projects (Recent Star References)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Multi-agent orchestration patterns
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Role-based collaborative agents
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Stateful agent graphs
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local tool-using code agent
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - Software engineering agent runtime
 
 ## 🛡 Developer Philosophy
 
@@ -208,6 +234,7 @@ $ ps aux | grep passion
 swift      1337  0.1  0.2  building_amazing_apps
 automation 2022  0.0  0.1  scripting_everything  
 learning   2024  1.0  0.5  exploring_new_tech
+vibe      2026  1.0  0.6  ai_pair_programming
 ```
 
 </div>
@@ -220,11 +247,11 @@ learning   2024  1.0  0.5  exploring_new_tech
 
 ### 💭 Daily Inspiration
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" loading="lazy" onerror="this.style.display='none'"/>
 
 ---
 
-<img src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" alt="Snake animation" loading="lazy" onerror="this.style.display='none'" />
 
 **Thanks for visiting! 🚀**
 
