@@ -71,16 +71,16 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zylcold&theme=tokyonight" alt="zylcold" />
+  <img src="https://streak-stats.demolab.com?user=zylcold&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zylcold&theme=tokyonight&row=1&column=7" alt="trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zylcold&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </div>
 
 ## 🛠 Featured Projects
@@ -88,10 +88,13 @@ class Developer {
 <div align="center">
 
 <a href="https://github.com/zylcold/LoveLinkProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight&hide_border=true" alt="LoveLinkProject" />
 </a>
 <a href="https://github.com/zylcold/JYFoundation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight&hide_border=true" alt="JYFoundation" />
+</a>
+<a href="https://github.com/zylcold/JYPhotoBrowser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYPhotoBrowser&theme=tokyonight&hide_border=true" alt="JYPhotoBrowser" />
 </a>
 
 </div>
