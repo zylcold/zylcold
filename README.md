@@ -74,80 +74,141 @@ class Developer {
 
 ## 📊 GitHub Analytics
 
+Public GitHub activity snapshot. Private work and offline contributions are not fully represented here.
+
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" loading="lazy"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" loading="lazy"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" loading="lazy"/>
 </div>
 
 ## 🛠 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/zylcold/LoveLinkProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight&hide_border=true" alt="LoveLinkProject" loading="lazy" />
-</a>
-<a href="https://github.com/zylcold/JYFoundation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight&hide_border=true" alt="JYFoundation" loading="lazy" />
-</a>
-<a href="https://github.com/zylcold/JYPhotoBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYPhotoBrowser&theme=tokyonight&hide_border=true" alt="JYPhotoBrowser" loading="lazy" />
-</a>
-
-</div>
-
-### 📱 iOS Apps
-- **[LoveLinkProject](https://github.com/zylcold/LoveLinkProject)** `Swift` `SwiftUI` `Modular Architecture`
-  > A modularized iOS project with multiple components for social networking and dating apps.
-  
-- **[JYFoundation](https://github.com/zylcold/JYFoundation)** `Swift` `iOS Framework` `Utilities`
-  > A lightweight framework for common utilities and extensions in iOS development.
-  
-- **[JYPhotoBrowser](https://github.com/zylcold/JYPhotoBrowser)** `Swift` `UIKit` `Animations`
-  > A customizable photo browser for iOS with smooth animations and gestures.
+| Project | Focus | Stack |
+|---------|-------|-------|
+| [DriftBuild](https://github.com/zylcold/DriftBuild) | Swift build tooling and developer workflow experiments. | `Swift` |
+| [XcodeBar](https://github.com/zylcold/XcodeBar) | Xcode-focused utility work for day-to-day iOS development. | `Swift` |
+| [owl-skills](https://github.com/zylcold/owl-skills) | Reusable skills and conventions for agent-assisted engineering. | `Python` `Agents` |
+| [daily_stock_analysis](https://github.com/zylcold/daily_stock_analysis) | LLM-driven market analysis workflow with data, news, dashboard, and notifications. | `AI` `Automation` |
 
 ## 📚 Learning & Growth Journey
 
 <div align="center">
 
 ```mermaid
-graph TD
-    A[Swift Basics] --> B[UIKit Mastery]
-    B --> C[SwiftUI Fundamentals]
-    B --> D[iOS Architecture]
-    C --> E[Combine Framework]
-    C --> F[Advanced Animations]
-    D --> G[MVVM-C Pattern]
-    D --> H[Clean Architecture]
-    E --> I[Open Source]
-    F --> I
-    G --> I
-    H --> I
-    I --> J[Future Goals]
-    
-    style A fill:#e1f5fe
-    style J fill:#fff3e0
-    style I fill:#f3e5f5
+flowchart LR
+    Start([iOS Foundations])
+
+    subgraph Core["Core iOS Engineering"]
+        Swift["Swift Language"]
+        UIKit["UIKit / Auto Layout"]
+        SwiftUI["SwiftUI"]
+        Concurrency["Swift Concurrency"]
+        Combine["Combine / Reactive Streams"]
+    end
+
+    subgraph Architecture["Architecture & App Quality"]
+        MVVM["MVVM / MVVM-C"]
+        Clean["Clean Architecture"]
+        Modular["Modularization"]
+        Testing["Unit / UI Testing"]
+        Performance["Launch, Memory, Rendering"]
+    end
+
+    subgraph Tooling["Developer Tooling"]
+        Xcode["Xcode Workflows"]
+        CI["GitHub Actions / Fastlane"]
+        BuildTools["Build Automation"]
+        Debugging["LLDB / Instruments"]
+    end
+
+    subgraph Product["Product Delivery"]
+        UX["Interaction Polish"]
+        Release["Release Discipline"]
+        Observability["Crash / Metrics Feedback"]
+        Docs["Technical Writing"]
+    end
+
+    subgraph AI["AI-Assisted Engineering"]
+        Prompting["Prompt Design"]
+        Agents["Agent Workflows"]
+        Validation["Tool-driven Validation"]
+        Templates["Reusable Coding Templates"]
+    end
+
+    subgraph Output["Open Source & Shipping"]
+        OSS["Open Source Projects"]
+        Apps["Launch iOS Apps"]
+        Community["Share / Write / Speak"]
+    end
+
+    Start --> Swift --> UIKit --> SwiftUI
+    Swift --> Concurrency
+    SwiftUI --> Combine
+    UIKit --> MVVM
+    SwiftUI --> MVVM
+    MVVM --> Clean --> Modular
+    Modular --> Testing --> Performance
+    Performance --> Release
+    Xcode --> BuildTools --> CI
+    Debugging --> Performance
+    CI --> Release
+    UX --> Release
+    Release --> Observability --> Docs
+    Prompting --> Agents --> Validation --> Templates
+    Templates --> BuildTools
+    Validation --> Testing
+    Docs --> OSS
+    Templates --> OSS
+    OSS --> Apps
+    Apps --> Community
+
+    classDef foundation fill:#e1f5fe,stroke:#0288d1,color:#0d47a1
+    classDef quality fill:#e8f5e9,stroke:#2e7d32,color:#1b5e20
+    classDef tooling fill:#fff3e0,stroke:#ef6c00,color:#e65100
+    classDef ai fill:#f3e5f5,stroke:#7b1fa2,color:#4a148c
+    classDef output fill:#fce4ec,stroke:#c2185b,color:#880e4f
+
+    class Start,Swift,UIKit,SwiftUI,Concurrency,Combine foundation
+    class MVVM,Clean,Modular,Testing,Performance,UX,Release,Observability,Docs quality
+    class Xcode,CI,BuildTools,Debugging tooling
+    class Prompting,Agents,Validation,Templates ai
+    class OSS,Apps,Community output
 ```
 
 </div>
 
 ### 🎯 Current Focus
 ```swift
-let currentLearning = [
-    "Advanced Swift Concurrency (async/await)",
-    "SwiftUI Advanced Animations", 
-    "Clean Architecture Patterns",
-    "iOS Performance Optimization",
-    "Vibe Coding Workflow (AI-assisted coding + fast prototyping)"
+let currentFocus: [String: [String]] = [
+    "iOS Architecture": [
+        "modular feature boundaries",
+        "testable MVVM / coordinator flows",
+        "clean dependency direction"
+    ],
+    "SwiftUI": [
+        "advanced animations",
+        "state management",
+        "UIKit interoperability"
+    ],
+    "Performance": [
+        "startup time",
+        "memory pressure",
+        "scrolling and rendering smoothness"
+    ],
+    "AI Workflow": [
+        "agent planning",
+        "tool-driven validation",
+        "repeatable coding templates"
+    ]
 ]
 ```
 
 ### 🚀 2026 Goals
-- [ ] Ship AI-assisted iOS developer workflow templates
-- [ ] Integrate Vibe Coding in daily feature prototyping
-- [ ] Build and launch 2 iOS apps
-- [ ] Write and publish technical blog posts about AI + iOS
-- [ ] Speak at iOS/AI community events
+- [ ] Ship reusable AI-assisted iOS developer workflow templates
+- [ ] Build a tighter local loop for plan -> edit -> test -> review
+- [ ] Launch 2 iOS apps or polished prototypes
+- [ ] Publish technical notes about Swift, iOS architecture, and AI-assisted engineering
+- [ ] Share practical lessons through open source, writing, or community talks
 
 ## 🤖 Agent Engineering Notes (2026)
 
