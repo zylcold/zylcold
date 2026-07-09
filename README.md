@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey there, I'm 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=@zylcold;iOS+Developer+%F0%9F%93%B1;Swift+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" loading="lazy" onerror="this.style.display='none'" />
+# 👋 Hey there, I'm zylcold
 
-<img src="https://komarev.com/ghpvc/?username=zylcold&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" loading="lazy" onerror="this.style.display='none'" />
-<a href="https://github.com/zylcold"><img src="https://img.shields.io/github/followers/zylcold?label=Follow&style=social" alt="GitHub followers" loading="lazy" onerror="this.style.display='none'" /></a>
+iOS Developer · Swift / SwiftUI · AI-assisted development
+
+<a href="https://github.com/zylcold"><img src="https://img.shields.io/github/followers/zylcold?label=Follow&style=social" alt="GitHub followers" loading="lazy" /></a>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" loading="lazy" onerror="this.style.display='none'">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" loading="lazy">
 
 ```swift
 class Developer {
@@ -75,16 +75,8 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy" onerror="this.style.display='none'"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" loading="lazy" onerror="this.style.display='none'"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zylcold&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="lazy" onerror="this.style.display='none'" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylcold&theme=tokyonight" alt="Contribution Summary" loading="lazy" onerror="this.style.display='none'" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" loading="lazy"/>
 </div>
 
 ## 🛠 Featured Projects
@@ -92,13 +84,13 @@ class Developer {
 <div align="center">
 
 <a href="https://github.com/zylcold/LoveLinkProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight&hide_border=true" alt="LoveLinkProject" loading="lazy" onerror="this.style.display='none'" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=LoveLinkProject&theme=tokyonight&hide_border=true" alt="LoveLinkProject" loading="lazy" />
 </a>
 <a href="https://github.com/zylcold/JYFoundation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight&hide_border=true" alt="JYFoundation" loading="lazy" onerror="this.style.display='none'" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYFoundation&theme=tokyonight&hide_border=true" alt="JYFoundation" loading="lazy" />
 </a>
 <a href="https://github.com/zylcold/JYPhotoBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYPhotoBrowser&theme=tokyonight&hide_border=true" alt="JYPhotoBrowser" loading="lazy" onerror="this.style.display='none'" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zylcold&repo=JYPhotoBrowser&theme=tokyonight&hide_border=true" alt="JYPhotoBrowser" loading="lazy" />
 </a>
 
 </div>
@@ -196,19 +188,12 @@ Intent -> Plan -> Search -> Edit -> Validate -> Review -> Ship
 <div align="center">
 
 <p>
-<a href="mailto:zylcold@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/zylcold">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/zylcold">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://zylcold.dev">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+<a href="https://github.com/zylcold">
+  <img src="https://img.shields.io/badge/GitHub-zylcold-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
+
+For project discussions, please open an issue in the relevant repository.
 
 </div>
 
@@ -245,13 +230,7 @@ vibe      2026  1.0  0.6  ai_pair_programming
 
 <div align="center">
 
-### 💭 Daily Inspiration
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" loading="lazy" onerror="this.style.display='none'"/>
-
----
-
-<img src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" alt="Snake animation" loading="lazy" onerror="this.style.display='none'" />
+<img src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" alt="Snake animation" loading="lazy" />
 
 **Thanks for visiting! 🚀**
 
