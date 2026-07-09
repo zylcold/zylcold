@@ -112,6 +112,80 @@ def languages_svg(originals):
     return svg_card(560, 292, "Primary Languages", "Original public repositories by main language", "\n".join(rows))
 
 
+def terminal_svg():
+    font = "SFMono-Regular, Consolas, Menlo, monospace"
+    left_items = [
+        ("identity", "zylcold"),
+        ("role", "iOS developer"),
+        ("since", "2018"),
+        ("mode", "build / automate / learn"),
+    ]
+    right_items = [
+        ("01", "reverse engineering iOS apps"),
+        ("02", "automation-first workflows"),
+        ("03", "AR / VR exploration"),
+        ("04", "Raspberry Pi tinkering"),
+        ("05", "AI pair programming"),
+    ]
+
+    rows = [
+        '  <rect x="18" y="18" width="864" height="34" rx="6" fill="#0F172A" stroke="#334155"/>',
+        f'  <text x="34" y="40" fill="#22D3EE" font-family="{font}" font-size="13">zylcold-profile.tui</text>',
+        f'  <text x="850" y="40" fill="#64748B" font-family="{font}" font-size="12" text-anchor="end">session: github</text>',
+        '  <rect x="18" y="66" width="276" height="238" rx="6" fill="#020617" stroke="#334155"/>',
+        '  <rect x="310" y="66" width="572" height="238" rx="6" fill="#020617" stroke="#334155"/>',
+        '  <rect x="18" y="318" width="864" height="34" rx="6" fill="#0F172A" stroke="#334155"/>',
+        f'  <text x="34" y="91" fill="#F8FAFC" font-family="{font}" font-size="13">┌─ profile</text>',
+        f'  <text x="326" y="91" fill="#F8FAFC" font-family="{font}" font-size="13">┌─ interests / runtime</text>',
+    ]
+
+    y = 122
+    for label, value in left_items:
+        rows.append(
+            f'  <text x="38" y="{y}" fill="#64748B" font-family="{font}" font-size="12">{escape(label)}</text>'
+        )
+        rows.append(
+            f'  <text x="130" y="{y}" fill="#E2E8F0" font-family="{font}" font-size="12">{escape(value)}</text>'
+        )
+        y += 34
+
+    y = 122
+    for index, text in right_items:
+        rows.append(
+            f'  <text x="332" y="{y}" fill="#38BDF8" font-family="{font}" font-size="12">[{escape(index)}]</text>'
+        )
+        rows.append(
+            f'  <text x="382" y="{y}" fill="#E2E8F0" font-family="{font}" font-size="12">{escape(text)}</text>'
+        )
+        y += 32
+
+    rows.extend(
+        [
+            f'  <text x="332" y="292" fill="#A7F3D0" font-family="{font}" font-size="12">motto</text>',
+            f'  <text x="382" y="292" fill="#F8FAFC" font-family="{font}" font-size="12">If it can be automated, it will be.</text>',
+            f'  <text x="34" y="340" fill="#94A3B8" font-family="{font}" font-size="12">F1 help</text>',
+            f'  <text x="120" y="340" fill="#94A3B8" font-family="{font}" font-size="12">F2 projects</text>',
+            f'  <text x="226" y="340" fill="#94A3B8" font-family="{font}" font-size="12">F3 workflow</text>',
+            f'  <text x="818" y="340" fill="#22C55E" font-family="{font}" font-size="12" text-anchor="end">READY</text>',
+        ]
+    )
+
+    return f"""<svg width="900" height="370" viewBox="0 0 900 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fun Facts TUI</title>
+  <desc id="desc">TUI-style snapshot of interests, workflow, and motto.</desc>
+  <defs>
+    <linearGradient id="terminalBg" x1="0" y1="0" x2="900" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="370" rx="14" fill="url(#terminalBg)"/>
+  <rect x="0.5" y="0.5" width="899" height="369" rx="13.5" stroke="#334155"/>
+{chr(10).join(rows)}
+</svg>
+"""
+
+
 def main():
     OUT_DIR.mkdir(exist_ok=True)
     user = request_json(f"/users/{USERNAME}")
@@ -120,6 +194,7 @@ def main():
 
     (OUT_DIR / "github-activity.svg").write_text(stats_svg(user, repos, originals), encoding="utf-8")
     (OUT_DIR / "primary-languages.svg").write_text(languages_svg(originals), encoding="utf-8")
+    (OUT_DIR / "terminal-snapshot.svg").write_text(terminal_svg(), encoding="utf-8")
 
 
 if __name__ == "__main__":

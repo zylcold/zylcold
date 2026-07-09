@@ -260,13 +260,9 @@ For project discussions, please open an issue in the relevant repository.
 
 ## 🖖 Fun Facts & Terminal
 
-| Area | Notes |
-|------|-------|
-| Identity | `zylcold` |
-| Experience | iOS development since 2018 |
-| Interests | Reverse engineering iOS apps, automation, AR/VR, Raspberry Pi |
-| Workflow | Swift engineering, scripting, continuous learning, AI pair programming |
-| Motto | If it can be automated, it will be. |
+<div align="center">
+  <img src="./assets/terminal-snapshot.svg" alt="TUI-style fun facts" width="100%" />
+</div>
 
 ---
 

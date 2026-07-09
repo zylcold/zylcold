@@ -1,0 +1,44 @@
+<svg width="900" height="370" viewBox="0 0 900 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fun Facts TUI</title>
+  <desc id="desc">TUI-style snapshot of interests, workflow, and motto.</desc>
+  <defs>
+    <linearGradient id="terminalBg" x1="0" y1="0" x2="900" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="370" rx="14" fill="url(#terminalBg)"/>
+  <rect x="0.5" y="0.5" width="899" height="369" rx="13.5" stroke="#334155"/>
+  <rect x="18" y="18" width="864" height="34" rx="6" fill="#0F172A" stroke="#334155"/>
+  <text x="34" y="40" fill="#22D3EE" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13">zylcold-profile.tui</text>
+  <text x="850" y="40" fill="#64748B" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12" text-anchor="end">session: github</text>
+  <rect x="18" y="66" width="276" height="238" rx="6" fill="#020617" stroke="#334155"/>
+  <rect x="310" y="66" width="572" height="238" rx="6" fill="#020617" stroke="#334155"/>
+  <rect x="18" y="318" width="864" height="34" rx="6" fill="#0F172A" stroke="#334155"/>
+  <text x="34" y="91" fill="#F8FAFC" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13">┌─ profile</text>
+  <text x="326" y="91" fill="#F8FAFC" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13">┌─ interests / runtime</text>
+  <text x="38" y="122" fill="#64748B" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">identity</text>
+  <text x="130" y="122" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">zylcold</text>
+  <text x="38" y="156" fill="#64748B" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">role</text>
+  <text x="130" y="156" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">iOS developer</text>
+  <text x="38" y="190" fill="#64748B" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">since</text>
+  <text x="130" y="190" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">2018</text>
+  <text x="38" y="224" fill="#64748B" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">mode</text>
+  <text x="130" y="224" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">build / automate / learn</text>
+  <text x="332" y="122" fill="#38BDF8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">[01]</text>
+  <text x="382" y="122" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">reverse engineering iOS apps</text>
+  <text x="332" y="154" fill="#38BDF8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">[02]</text>
+  <text x="382" y="154" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">automation-first workflows</text>
+  <text x="332" y="186" fill="#38BDF8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">[03]</text>
+  <text x="382" y="186" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">AR / VR exploration</text>
+  <text x="332" y="218" fill="#38BDF8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">[04]</text>
+  <text x="382" y="218" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">Raspberry Pi tinkering</text>
+  <text x="332" y="250" fill="#38BDF8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">[05]</text>
+  <text x="382" y="250" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">AI pair programming</text>
+  <text x="332" y="292" fill="#A7F3D0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">motto</text>
+  <text x="382" y="292" fill="#F8FAFC" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">If it can be automated, it will be.</text>
+  <text x="34" y="340" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">F1 help</text>
+  <text x="120" y="340" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">F2 projects</text>
+  <text x="226" y="340" fill="#94A3B8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12">F3 workflow</text>
+  <text x="818" y="340" fill="#22C55E" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12" text-anchor="end">READY</text>
+</svg>
