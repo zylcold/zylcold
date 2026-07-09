@@ -74,12 +74,22 @@ class Developer {
 
 ## 📊 GitHub Analytics
 
-Public GitHub activity snapshot. Private work and offline contributions are not fully represented here.
+Public GitHub activity snapshot as of July 2026. Private work and offline contributions are not fully represented here.
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zylcold&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" loading="lazy"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylcold&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" loading="lazy"/>
-</div>
+| Metric | Value |
+|--------|-------|
+| Public repositories | 57 |
+| Original public repositories | 30 |
+| Followers | 13 |
+| GitHub since | 2014 |
+
+| Primary Languages | Public original repos |
+|-------------------|-----------------------|
+| Swift | 6 |
+| Objective-C | 5 |
+| JavaScript | 3 |
+| Ruby | 2 |
+| Python | 1 |
 
 ## 🛠 Featured Projects
 
@@ -260,30 +270,13 @@ For project discussions, please open an issue in the relevant repository.
 
 ## 🖖 Fun Facts & Terminal
 
-<div align="center">
-
-```bash
-$ whoami
-zylcold
-
-$ cat interests.txt
-🔍 Reverse engineering iOS apps
-🤖 Automation enthusiast - "If it can be automated, it will be"
-🕶️ AR/VR exploration
-🔧 Raspberry Pi tinkering
-☕ Coffee-driven development
-
-$ uptime
-iOS development since 2018 📱
-
-$ ps aux | grep passion
-swift      1337  0.1  0.2  building_amazing_apps
-automation 2022  0.0  0.1  scripting_everything  
-learning   2024  1.0  0.5  exploring_new_tech
-vibe      2026  1.0  0.6  ai_pair_programming
-```
-
-</div>
+| Area | Notes |
+|------|-------|
+| Identity | `zylcold` |
+| Experience | iOS development since 2018 |
+| Interests | Reverse engineering iOS apps, automation, AR/VR, Raspberry Pi |
+| Workflow | Swift engineering, scripting, continuous learning, AI pair programming |
+| Motto | If it can be automated, it will be. |
 
 ---
 
