@@ -74,22 +74,12 @@ class Developer {
 
 ## 📊 GitHub Analytics
 
-Public GitHub activity snapshot as of July 2026. Private work and offline contributions are not fully represented here.
+Generated from the GitHub API. Private work and offline contributions are not fully represented here.
 
-| Metric | Value |
-|--------|-------|
-| Public repositories | 57 |
-| Original public repositories | 30 |
-| Followers | 13 |
-| GitHub since | 2014 |
-
-| Primary Languages | Public original repos |
-|-------------------|-----------------------|
-| Swift | 6 |
-| Objective-C | 5 |
-| JavaScript | 3 |
-| Ruby | 2 |
-| Python | 1 |
+<div align="center">
+  <img src="./assets/github-activity.svg" alt="GitHub activity snapshot" width="49%" />
+  <img src="./assets/primary-languages.svg" alt="Primary language distribution" width="49%" />
+</div>
 
 ## 🛠 Featured Projects
 

@@ -1,0 +1,28 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: zylcold
+          HIDE_LANGUAGES: HTML,CSS,Perl
+        run: python3 scripts/generate_profile_stats.py
+
+      - name: Commit generated assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update generated profile stats
+          file_pattern: assets/github-activity.svg assets/primary-languages.svg
