@@ -23,12 +23,12 @@
   <text x="500" y="164" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">3</text>
   <rect x="24" y="174" width="360" height="8" rx="4" fill="#1E293B"/>
   <rect x="24" y="174" width="180" height="8" rx="4" fill="#FACC15"/>
-  <text x="24" y="198" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Ruby</text>
+  <text x="24" y="198" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Python</text>
   <text x="500" y="198" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">2</text>
   <rect x="24" y="208" width="360" height="8" rx="4" fill="#1E293B"/>
   <rect x="24" y="208" width="120" height="8" rx="4" fill="#CC342D"/>
-  <text x="24" y="232" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Python</text>
-  <text x="500" y="232" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">1</text>
+  <text x="24" y="232" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Ruby</text>
+  <text x="500" y="232" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">2</text>
   <rect x="24" y="242" width="360" height="8" rx="4" fill="#1E293B"/>
-  <rect x="24" y="242" width="60" height="8" rx="4" fill="#22C55E"/>
+  <rect x="24" y="242" width="120" height="8" rx="4" fill="#22C55E"/>
 </svg>
