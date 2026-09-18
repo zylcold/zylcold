@@ -58,16 +58,15 @@
 | **照片回顾** | 旅行照片地图，轨迹与回忆 | [官网](https://zylcold.github.io/travelsmap-site/) |
 | **双键** | 双拼输入法练习与离线系统键盘（小鹤/微软/搜狗） | [官网](https://zylcold.github.io/dualkey-site/) |
 
-### 📦 GitHub
+### 📦 开源项目
 
-| 项目 | 说明 |
-|------|------|
-| [XcodeBar](https://github.com/zylcold/XcodeBar) | macOS 菜单栏 Xcode 构建监控 |
-| [BlindWatermark](https://github.com/zylcold/BlindWatermark) | iOS 屏幕级盲水印 |
-| [openclaw-observatory](https://github.com/zylcold/openclaw-observatory) | OpenClaw 本地可观测性平台 |
-| [DriftBuild](https://github.com/zylcold/DriftBuild) | Swift 远程构建工具链 |
-| [dungeon-mizong-game](https://github.com/zylcold/dungeon-mizong-game) | 迷踪 · Roguelike 网页游戏 |
-| [daily_stock_analysis](https://github.com/zylcold/daily_stock_analysis) | LLM 驱动的市场分析流水线 |
+| 项目 | 分类 | 说明 |
+|------|------|------|
+| [XcodeBar](https://github.com/zylcold/XcodeBar) | 开发工具 | macOS 菜单栏 Xcode 构建监控 |
+| [DriftBuild](https://github.com/zylcold/DriftBuild) | 开发工具 | Swift 远程构建工具链 |
+| [openclaw-observatory](https://github.com/zylcold/openclaw-observatory) | Agent 基建 | OpenClaw 本地可观测性平台 |
+| [BlindWatermark](https://github.com/zylcold/BlindWatermark) | iOS | 屏幕级盲水印 |
+| [dungeon-mizong-game](https://github.com/zylcold/dungeon-mizong-game) | 玩具 | 迷踪 · Roguelike 网页游戏 |
 
 ## 🔗 找到我
 
