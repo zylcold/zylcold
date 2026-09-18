@@ -52,11 +52,11 @@
 
 ### 🍎 App Store
 
-| App | 一句话 |
-|-----|--------|
-| **格物** | 本地优先的物品收纳管理，端侧 AI 识别，iCloud 家庭共享 |
-| **照片回顾** | 旅行照片地图，轨迹与回忆 |
-| **双键** | 简洁可靠的密码管理 |
+| App | 一句话 | 项目主页 |
+|-----|--------|----------|
+| **格物** | 本地优先的物品收纳管理，端侧 AI 识别，iCloud 家庭共享 | [gewu-site](https://github.com/zylcold/gewu-site) |
+| **照片回顾** | 旅行照片地图，轨迹与回忆 | [travelsmap-site](https://github.com/zylcold/travelsmap-site) |
+| **双键** | 双拼输入法练习与离线系统键盘（小鹤/微软/搜狗） | [dualkey-site](https://github.com/zylcold/dualkey-site) |
 
 ### 📦 GitHub
 
