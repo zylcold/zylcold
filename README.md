@@ -1,279 +1,78 @@
 <div align="center">
 
-# 👋 Hey there, I'm zylcold
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ED760,50:8F5CFF,100:1a1a2e&height=180&section=header&text=zylcold&fontSize=48&fontAlignY=34&fontColor=ffffff&animation=fadeIn&fontAlign=center" width="100%" />
 
-iOS Developer · Swift / SwiftUI · AI-assisted development
+# 👋 我是云龙
 
-<a href="https://github.com/zylcold"><img src="https://img.shields.io/github/followers/zylcold?label=Follow&style=social" alt="GitHub followers" loading="lazy" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Developer+🍎;AI+Agent+Builder+🤖;Swift+·+SwiftUI+·+Cloudflare;Ship+apps+with+agents&font=Fira+Code&center=true&width=520&height=110&color=1ED760&vCenter=true&size=21&pause=1200)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" loading="lazy">
-
-```swift
-class Developer {
-    let name = "zylcold"
-    let role = "iOS Developer"
-    let language_spoken = ["zh_CN", "en_US"]
-    
-    func getCurrentFocus() -> [String] {
-        return [
-            "SwiftUI & Combine",
-            "iOS Architecture",
-            "Open Source"
-        ]
-    }
-    
-    func getFutureGoals() -> [String] {
-        return [
-            "Master ARKit",
-            "Contribute to Swift",
-            "Build Amazing Apps"
-        ]
-    }
-}
-```
-<br clear="both"/>
-
-## 🧑‍💻 Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📱 Frameworks & Libraries
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FF6B35?style=for-the-badge&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-1575F9?style=for-the-badge&logo=coredata&logoColor=white)
-
-### 🛠️ Development Tools
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-8C5A3C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📊 Databases & Backend
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**iOS 独立开发者 · AI Agent 方向 · 全栈玩家** · 🇨🇳 China
 
 </div>
 
-## 📊 GitHub Analytics
+## 🧑‍💻 关于我
 
-Generated from the GitHub API. Private work and offline contributions are not fully represented here.
+白天写 SwiftUI，晚上折腾 AI Agent 基建——正在用 agent 开发 agent。
+
+- 🍎 三款 App 上架 App Store：**格物**（物品收纳 · 端侧 AI 识别）、**照片回顾**（旅行照片地图）、**双键**（密码管理）
+- 🤖 Agent 工程：OpenClaw 全家桶、DriftBuild 远程构建、owl-skills、自建 9router 模型路由
+- ⚡ 全栈：Cloudflare Workers · TypeScript · Python
+- 🔧 XcodeGen / Fastlane / Xcode Cloud / App Store Connect 自动化
+
+## 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" />
+</picture>
+
+## 🛠️ 技术栈
 
 <div align="center">
-  <img src="./assets/github-activity.svg" alt="GitHub activity snapshot" width="49%" />
-  <img src="./assets/primary-languages.svg" alt="Primary language distribution" width="49%" />
-</div>
 
-## 🛠 Featured Projects
-
-| Project | Focus | Stack |
-|---------|-------|-------|
-| [DriftBuild](https://github.com/zylcold/DriftBuild) | Swift build tooling and developer workflow experiments. | `Swift` |
-| [XcodeBar](https://github.com/zylcold/XcodeBar) | Xcode-focused utility work for day-to-day iOS development. | `Swift` |
-| [owl-skills](https://github.com/zylcold/owl-skills) | Reusable skills and conventions for agent-assisted engineering. | `Python` `Agents` |
-| [daily_stock_analysis](https://github.com/zylcold/daily_stock_analysis) | LLM-driven market analysis workflow with data, news, dashboard, and notifications. | `AI` `Automation` |
-
-## 📚 Learning & Growth Journey
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    Start([iOS Foundations])
-
-    subgraph Core["Core iOS Engineering"]
-        Swift["Swift Language"]
-        UIKit["UIKit / Auto Layout"]
-        SwiftUI["SwiftUI"]
-        Concurrency["Swift Concurrency"]
-        Combine["Combine / Reactive Streams"]
-    end
-
-    subgraph Architecture["Architecture & App Quality"]
-        MVVM["MVVM / MVVM-C"]
-        Clean["Clean Architecture"]
-        Modular["Modularization"]
-        Testing["Unit / UI Testing"]
-        Performance["Launch, Memory, Rendering"]
-    end
-
-    subgraph Tooling["Developer Tooling"]
-        Xcode["Xcode Workflows"]
-        CI["GitHub Actions / Fastlane"]
-        BuildTools["Build Automation"]
-        Debugging["LLDB / Instruments"]
-    end
-
-    subgraph Product["Product Delivery"]
-        UX["Interaction Polish"]
-        Release["Release Discipline"]
-        Observability["Crash / Metrics Feedback"]
-        Docs["Technical Writing"]
-    end
-
-    subgraph AI["AI-Assisted Engineering"]
-        Prompting["Prompt Design"]
-        Agents["Agent Workflows"]
-        Validation["Tool-driven Validation"]
-        Templates["Reusable Coding Templates"]
-    end
-
-    subgraph Output["Open Source & Shipping"]
-        OSS["Open Source Projects"]
-        Apps["Launch iOS Apps"]
-        Community["Share / Write / Speak"]
-    end
-
-    Start --> Swift --> UIKit --> SwiftUI
-    Swift --> Concurrency
-    SwiftUI --> Combine
-    UIKit --> MVVM
-    SwiftUI --> MVVM
-    MVVM --> Clean --> Modular
-    Modular --> Testing --> Performance
-    Performance --> Release
-    Xcode --> BuildTools --> CI
-    Debugging --> Performance
-    CI --> Release
-    UX --> Release
-    Release --> Observability --> Docs
-    Prompting --> Agents --> Validation --> Templates
-    Templates --> BuildTools
-    Validation --> Testing
-    Docs --> OSS
-    Templates --> OSS
-    OSS --> Apps
-    Apps --> Community
-
-    classDef foundation fill:#e1f5fe,stroke:#0288d1,color:#0d47a1
-    classDef quality fill:#e8f5e9,stroke:#2e7d32,color:#1b5e20
-    classDef tooling fill:#fff3e0,stroke:#ef6c00,color:#e65100
-    classDef ai fill:#f3e5f5,stroke:#7b1fa2,color:#4a148c
-    classDef output fill:#fce4ec,stroke:#c2185b,color:#880e4f
-
-    class Start,Swift,UIKit,SwiftUI,Concurrency,Combine foundation
-    class MVVM,Clean,Modular,Testing,Performance,UX,Release,Observability,Docs quality
-    class Xcode,CI,BuildTools,Debugging tooling
-    class Prompting,Agents,Validation,Templates ai
-    class OSS,Apps,Community output
-```
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,ts,nodejs,python,cloudflare,git,github,sqlite,vscode,figma&theme=dark" alt="tech stack icons" /></a>
 
 </div>
 
-### 🎯 Current Focus
-```swift
-let currentFocus: [String: [String]] = [
-    "iOS Architecture": [
-        "modular feature boundaries",
-        "testable MVVM / coordinator flows",
-        "clean dependency direction"
-    ],
-    "SwiftUI": [
-        "advanced animations",
-        "state management",
-        "UIKit interoperability"
-    ],
-    "Performance": [
-        "startup time",
-        "memory pressure",
-        "scrolling and rendering smoothness"
-    ],
-    "AI Workflow": [
-        "agent planning",
-        "tool-driven validation",
-        "repeatable coding templates"
-    ]
-]
-```
-
-### 🚀 2026 Goals
-- [ ] Ship reusable AI-assisted iOS developer workflow templates
-- [ ] Build a tighter local loop for plan -> edit -> test -> review
-- [ ] Launch 2 iOS apps or polished prototypes
-- [ ] Publish technical notes about Swift, iOS architecture, and AI-assisted engineering
-- [ ] Share practical lessons through open source, writing, or community talks
-
-## 🤖 Agent Engineering Notes (2026)
-
-### 🧠 Agent Knowledge Map
-- **Planning**: Break tasks into verifiable checkpoints before coding
-- **Tool Use**: Prefer deterministic tools (search, tests, CI logs) over guesswork
-- **Memory**: Persist stable conventions and avoid session-only assumptions
-- **Validation**: Run review/security checks before final output
-- **Feedback Loop**: Use comment-driven iteration to refine small PRs quickly
-
-### 🧰 Agent Workflow I Use
-```text
-Intent -> Plan -> Search -> Edit -> Validate -> Review -> Ship
-```
-
-### ⭐ Agent Projects (Recent Star References)
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Multi-agent orchestration patterns
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Role-based collaborative agents
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Stateful agent graphs
-- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local tool-using code agent
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - Software engineering agent runtime
-
-## 🛡 Developer Philosophy
+## 📊 GitHub 数据
 
 <div align="center">
 
-| Principle | Description |
-|-----------|-------------|
-| 🧹 **Clean Code** | *"Code is read more often than it is written"* |
-| 🚀 **Performance** | *"Premature optimization is the root of all evil"* |
-| 🤝 **Collaboration** | *"Alone we can do so little; together we can do so much"* |
-| 📚 **Learning** | *"Stay hungry, stay foolish"* |
+<img src="https://streak-stats.demolab.com?user=zylcold&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" width="72%" />
+
+<img src="./assets/github-activity.svg" alt="GitHub activity snapshot" width="49%" />
+<img src="./assets/primary-languages.svg" alt="Primary language distribution" width="49%" />
+
+*自托管统计（GitHub Actions 每日生成），私有仓库贡献不完全计入。*
 
 </div>
 
-## 📫 Let's Connect & Collaborate
+## 🚀 产品与开源
+
+### 🍎 App Store
+
+| App | 一句话 |
+|-----|--------|
+| **格物** | 本地优先的物品收纳管理，端侧 AI 识别，iCloud 家庭共享 |
+| **照片回顾** | 旅行照片地图，轨迹与回忆 |
+| **双键** | 简洁可靠的密码管理 |
+
+### 📦 GitHub
+
+| 项目 | 说明 |
+|------|------|
+| [XcodeBar](https://github.com/zylcold/XcodeBar) | macOS 菜单栏 Xcode 构建监控 |
+| [BlindWatermark](https://github.com/zylcold/BlindWatermark) | iOS 屏幕级盲水印 |
+| [openclaw-observatory](https://github.com/zylcold/openclaw-observatory) | OpenClaw 本地可观测性平台 |
+| [DriftBuild](https://github.com/zylcold/DriftBuild) | Swift 远程构建工具链 |
+| [dungeon-mizong-game](https://github.com/zylcold/dungeon-mizong-game) | 迷踪 · Roguelike 网页游戏 |
+| [daily_stock_analysis](https://github.com/zylcold/daily_stock_analysis) | LLM 驱动的市场分析流水线 |
 
 <div align="center">
 
-<p>
-<a href="https://github.com/zylcold">
-  <img src="https://img.shields.io/badge/GitHub-zylcold-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8F5CFF,100:1ED760&height=120&section=footer" width="100%" />
 
-For project discussions, please open an issue in the relevant repository.
-
-</div>
-
-## 🖖 Fun Facts & Terminal
-
-<div align="center">
-  <img src="./assets/terminal-snapshot.svg" alt="TUI-style fun facts" width="100%" />
-</div>
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zylcold/zylcold/output/github-contribution-grid-snake.svg" alt="Snake animation" loading="lazy" />
-
-**Thanks for visiting! 🚀**
-
-*Made with ❤️ and lots of ☕*
+*⚡ Powered by SwiftUI & AI Agents*
 
 </div>
