@@ -4,17 +4,17 @@
 
 # 👋 我是云龙
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Developer+🍎;AI+Agent+Builder+🤖;Swift+·+SwiftUI+·+Cloudflare;Ship+apps+with+agents&font=Fira+Code&center=true&width=520&height=110&color=1ED760&vCenter=true&size=21&pause=1200)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Engineer+🍎;Indie+Developer+🌙;AI+Agent+Builder+🤖;Swift+·+SwiftUI+·+Cloudflare&font=Fira+Code&center=true&width=560&height=110&color=1ED760&vCenter=true&size=21&pause=1200)](https://git.io/typing-svg)
 
-**iOS 独立开发者 · AI Agent 方向 · 全栈玩家** · 🇨🇳 China
+**iOS 工程师（白天）· 独立开发者（晚上）· 折腾 Agent** · 🇨🇳 China
 
 </div>
 
 ## 🧑‍💻 关于我
 
-白天写 SwiftUI，晚上折腾 AI Agent 基建——正在用 agent 开发 agent。
+白天 iOS 公司社畜，晚上独立开发、折腾 Agent——正在用 agent 开发 agent。
 
-- 🍎 三款 App 上架 App Store：**格物**（物品收纳 · 端侧 AI 识别）、**照片回顾**（旅行照片地图）、**双键**（密码管理）
+- 🍎 三款 App 上架 App Store：**格物**（物品收纳 · 端侧 AI 识别）、**照片回顾**（旅行照片地图）、**双键**（双拼输入法练习 + 离线系统键盘）
 - 🤖 Agent 工程：OpenClaw 全家桶、DriftBuild 远程构建、owl-skills、自建 9router 模型路由
 - ⚡ 全栈：Cloudflare Workers · TypeScript · Python
 - 🔧 XcodeGen / Fastlane / Xcode Cloud / App Store Connect 自动化
@@ -68,6 +68,16 @@
 | [DriftBuild](https://github.com/zylcold/DriftBuild) | Swift 远程构建工具链 |
 | [dungeon-mizong-game](https://github.com/zylcold/dungeon-mizong-game) | 迷踪 · Roguelike 网页游戏 |
 | [daily_stock_analysis](https://github.com/zylcold/daily_stock_analysis) | LLM 驱动的市场分析流水线 |
+
+## 🔗 找到我
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-zylcold-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zylcold)
+[![小红书](https://img.shields.io/badge/小红书-@OpenClaw%20又挂了？-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/102624846)
+[![App Store](https://img.shields.io/badge/App%20Store-格物%20·%20照片回顾%20·%20双键-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://zylcold.github.io/gewu-site/)
+
+</div>
 
 <div align="center">
 
